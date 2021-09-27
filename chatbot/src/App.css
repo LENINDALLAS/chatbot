@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+.chatbotContainer {
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  right: 0px;
+  bottom: 0;
+  z-index: -1;
+}
+
+.assetContainer {
+  display: grid;
+}
